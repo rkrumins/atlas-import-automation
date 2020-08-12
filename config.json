@@ -1,0 +1,15 @@
+{
+    "ssh_user": "user",
+    "ssh_password": "password",
+    "hostname": "myhost.com",
+    "port": 22,
+    "atlas_username": "admin",
+    "atlas_password": "admin",
+    "atlas_home_location": "/opt/hdp/current/atlas",
+    "sources_file_location": "../sources.txt",
+    "remote_file_write_location": "/tmp/sources.txt",
+    "kerberos_flag": true,
+    "keytab_headless": true,
+    "keytab_location": "/home/my_keytab.keytab",
+    "keytab_username": "user"
+}
